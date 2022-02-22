@@ -2,4 +2,3 @@
 - Tkinter
 - MySQL 
 - Exceptions
----
